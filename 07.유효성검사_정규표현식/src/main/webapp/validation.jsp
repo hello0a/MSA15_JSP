@@ -24,7 +24,7 @@
 	 <script>
 	 	// 로그인 유효성 검사
 	 	function checkLogin() {
-	 		alert("로그인 요청")
+	 	//	alert("로그인 요청")
 	 		let form = document.loginForm	// name 이 loginForm 인 폼 요소 가져옴
 	 		
 	 		let id = form.id.value
